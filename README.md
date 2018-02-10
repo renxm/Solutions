@@ -1,4 +1,4 @@
-MyAlgorithms
+Solutions
 ============
 
-My codes of learning on various algorithms.
+Solutions for leetcode, zju oj and so on.
